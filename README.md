@@ -1,5 +1,9 @@
 # Graylog Inputs Content Pack
 
+This content pack installs some standard inputs.
+
+Please see [our documentation](https://docs.graylog.org/en/3.0/pages/content_packs.html?highlight=content%20packas#upload-a-content-pack) for how to upload and enable content packs.
+
 ## GELF HTTP
 
 ```
