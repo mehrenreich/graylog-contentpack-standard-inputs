@@ -1,4 +1,4 @@
-# Graylog Inputs Content Pack
+# Graylog Standard Inputs Content Pack
 
 This content pack installs some standard inputs.
 
